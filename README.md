@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex.</h1>
 <h3 align="center">A passionate Junior Data Scientist from Romania.</h3>
-<h4>
+<span style="font-size:20px;">
 - 🔭 I’m currently working on <strong>AI for Healthcare.</strong><br>
 - 🌱 I’m currently learning <strong>Natural Language Processing.</strong>
-</h4>
+</span>
 
 <h3 align="left">Connect with me:</h3>
 

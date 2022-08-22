@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex.</h1>
 <h3 align="center">A passionate Junior Data Scientist from Romania.</h3>
 
-- 🔭 I’m currently working on <strong>AI for Healthcare.</strong><br>
-- 🌱 I’m currently learning <strong>Natural Language Processing.</strong>
+- 🔭 I’m currently working on **AI for Healthcare**.
+
+- 🌱 I’m currently learning **Natural Language Processing**
 
 <h3 align="left">Connect with me:</h3>
 

@@ -6,7 +6,7 @@
 >
 </span>
 
-<p style="font-size:40px;">- 🔭 I’m currently working on <strong>AI for Healthcare.</strong><br>
+<p style="font-size:80px;">- 🔭 I’m currently working on <strong>AI for Healthcare.</strong><br>
 - 🌱 I’m currently learning <strong>Natural Language Processing.</strong></p>
 
 <h3 align="left">Connect with me:</h3>

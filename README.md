@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Unsupervised Learning**.
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Natural Language Processing**.
 
 <h3 align="left">Connect with me:</h3>
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Damian.</h1>
-<h3 align="center">A passionate Junior Data Scientist from Romania.</h3>
+<h3 align="center">An NLP Data Scientist from Romania.</h3>
 
-- 🔭 I’m currently working on **Large Language Model**.
+- 🔭 I’m currently working on **LLMs - Large Language Models**.
 
-- 🌱 I’m currently learning **Retrieval Augmented Generation**.
+- 🌱 I’m currently learning **RAG - Retrieval Augmented Generation**.
 
 <h3 align="left">Connect with me:</h3>
 
